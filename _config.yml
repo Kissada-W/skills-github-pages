@@ -2,6 +2,6 @@ theme: minima
 title: GitHub Skills
 description: A collection of GitHub Skills and resources to help you learn and grow in your software development journey.
 author:
-  name: Kissada Waravit
-  email: Kissada.Waravit@gmail.com
+ - name: Kissada Waravit
+ - email: Kissada.Waravit@gmail.com
 baseurl: "https://kissada-w.github.io/skills-github-pages/"
